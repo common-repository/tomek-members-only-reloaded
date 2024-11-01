@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Members Only\n"
+"POT-Creation-Date: 2018-12-04 17:34+0100\n"
+"PO-Revision-Date: 2018-12-04 17:35+0100\n"
+"Last-Translator: Tomek <tomek.maestro@gmail.com>\n"
+"Language-Team: Tomek <tomek.maestro@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: members_only-reloaded.php:25
+msgid "Members Only"
+msgstr "Csak tagoknak"
+
+#: members_only-reloaded.php:31
+msgid "Everyone can read it"
+msgstr "Mindenki elolvashatja"
+
+#: members_only-reloaded.php:33
+msgid "Enable advertising before reading the full content"
+msgstr "Reklám engedélyezése a teljes tartalom olvasása előtt"
+
+#: members_only-reloaded.php:35
+msgid "HTML code"
+msgstr "HTML kód"
+
+#: members_only-reloaded.php:83 members_only-reloaded.php:107
+msgid "Jump to the full content"
+msgstr "Ugrás a teljes tartalomra"
+
+#: members_only-reloaded.php:112
+msgid "The post doesn't end."
+msgstr "A cikknek még nincs vége!"
+
+#: members_only-reloaded.php:113
+msgid "You need"
+msgstr "A folytatáshoz"
+
+#: members_only-reloaded.php:114
+msgid "registration"
+msgstr "regisztráció"
+
+#: members_only-reloaded.php:115
+msgid "and"
+msgstr "és"
+
+#: members_only-reloaded.php:116
+msgid "login"
+msgstr "bejelentkezés"
+
+#: members_only-reloaded.php:117
+msgid "to read the whole post."
+msgstr "szükséges."
